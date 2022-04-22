@@ -1,2 +1,2 @@
 # EERM-linear
-If you have any questions or spot any errors, please feel free to contact me:)
+If you have any question or spot any error, please feel free to discuss them in the issue:)
